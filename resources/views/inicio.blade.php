@@ -9,7 +9,7 @@
 <body>
     <h1>este es mi primer repositorio</h1>
     <p>hola que hace</p>
-    <h1></h1>
+    
     <h1>
         @php
         echo "esto es un texto"
